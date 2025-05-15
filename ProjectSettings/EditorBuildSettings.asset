@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/game/Menu.unity
+    guid: e36d2e9caad297543bf75382b9baf286
+  - enabled: 0
+    path: Assets/Scenes/game/Nivel2.unity
+    guid: 5302ec47dd872eb4a9bc62a21dafc001
+  - enabled: 1
+    path: Assets/Scenes/game/nivel_1.unity
+    guid: 137b219538761d74f9d47bcf0d82ec88
+  - enabled: 0
+    path: Assets/Scenes/game/Nivel 1-San Camilo.unity
+    guid: 035821248a1cf8c4dad75ed0489aa6ce
+  - enabled: 0
+    path: Assets/Scenes/game/Creditos.unity
+    guid: a735a17be7367c54f84223d23210ea37
+  m_configObjects: {}
