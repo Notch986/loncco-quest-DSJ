@@ -644,8 +644,6 @@ MonoBehaviour:
   pantalla2: {fileID: 1256447198}
   niveles:
   - {fileID: 1207433962}
-  - {fileID: 1409603573}
-  - {fileID: 980276950}
   nivel: 2
 --- !u!4 &491371748
 Transform:
@@ -1711,7 +1709,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 4841b0bb2c4fa5644a8514caca5c490b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b0e4d2bb995c19d43b7d6e6e5a3006ed, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
