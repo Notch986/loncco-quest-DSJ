@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Archivos específicos del proyecto (opcional)
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Builds locales (opcional)
+/Builds/
